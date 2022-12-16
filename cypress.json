@@ -1,0 +1,7 @@
+{
+  "projectId": "n54w4o",
+  "pageLoadTimeout": 80000,
+  "video": true,
+  "screenshotOnRunFailure": true,
+  "log": "true"
+}
