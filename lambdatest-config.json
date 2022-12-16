@@ -10,6 +10,13 @@
          "versions": [
             "latest-1"
          ]
+      },
+      {
+         "browser": "Firefox",
+         "platform": "macOS Monterey",
+         "versions": [
+            "latest-1"
+         ]
       }
    ],
    "run_settings": {
